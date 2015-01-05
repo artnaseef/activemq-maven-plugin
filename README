@@ -1,0 +1,15 @@
+This is a modified clone of the activemq-maven-plugin from the 5.10.0 activemq sources.  It is intended as a stop-gap
+for those needing the newer functionality with the older broker until the newer broker is released.
+
+With that in mind, minimal changes should be needed to gain access to the updated functionality.  For example, the
+version number of this project matches the version number of ActiveMQ against which it is built.
+
+
+ORIGINAL SOURCE REPO
+	https://git-wip-us.apache.org/repos/asf/activemq.git
+
+SOURCE SUBDIRECTORY
+	activemq-tooling/activemq-maven-plugin
+
+TAG
+	activemq-5.10.0
